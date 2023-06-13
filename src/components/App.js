@@ -8,8 +8,8 @@ const App = () => {
     <div>
         <PageLayout 
         header = "Welcome to my website"
-        footer = "@2023 My Website. All rights reserved."
-        childreen= "This is the content of my website."
+        footer = "© 2023 My Website. All rights reserved."
+        children= "This is the content of my website."
         >
           </PageLayout>
     </div>
